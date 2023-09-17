@@ -12,6 +12,7 @@ from riskGame.classes.agent.aStar_agent import AStar
 from riskGame.classes.agent.greedy_agent import Greedy
 from riskGame.classes.agent.real_time_aStar import RTAStar
 
+# test
 
 class Parser:
 
